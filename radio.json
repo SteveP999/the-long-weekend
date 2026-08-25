@@ -6,16 +6,32 @@
     "artist": "The Long Weekend",
     "album": "No Particular Hurry",
     "cover": "images/covers/the-long-weekend-a-little-more-of-you-cover.png",
-    "audioSrc": "https://www.dropbox.com/scl/fi/iut2riuvtpud80lm47cza/long-weekend-a-little-more-of-you-COVER.png?rlkey=jvclvl95ieoqlu13g64yrttkg&raw=1",
+    "audioSrc": "https://www.dropbox.com/scl/fi/lfiqobshy4jpy4kdp2kbl/the-long-weekend-anywhere-but-here-MP3-mastered.mp3?rlkey=mfc9rdzd4dsau4gtsj1cofykr&raw=1",
     "videos": []
   },
   "tracks": [
     {
       "title": "A Little More Of You",
       "artist": "The Long Weekend",
+      "album": "Anywhere But Here",
+      "cover": "images/covers/the-long-weekend-a-little-more-of-you-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/lfiqobshy4jpy4kdp2kbl/the-long-weekend-anywhere-but-here-MP3-mastered.mp3?rlkey=mfc9rdzd4dsau4gtsj1cofykr&raw=1",
+      "videos": []
+    },
+    {
+      "title": "A Little More Of You",
+      "artist": "The Long Weekend",
       "album": "No Particular Hurry",
       "cover": "images/covers/the-long-weekend-a-little-more-of-you-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/iut2riuvtpud80lm47cza/long-weekend-a-little-more-of-you-COVER.png?rlkey=jvclvl95ieoqlu13g64yrttkg&raw=1",
+      "videos": []
+    },
+    {
+      "title": "A Little More Of You",
+      "artist": "The Long Weekend",
+      "album": "No Particular Hurry",
+      "cover": "images/covers/the-long-weekend-a-little-more-of-you-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/lfiqobshy4jpy4kdp2kbl/the-long-weekend-anywhere-but-here-MP3-mastered.mp3?rlkey=mfc9rdzd4dsau4gtsj1cofykr&raw=1",
       "videos": []
     }
   ]
