@@ -1,11 +1,11 @@
 {
-  "title": "A Little More Of You",
+  "title": "A Little More of You",
   "artist": "The Long Weekend",
   "album": "No Particular Hurry",
   "type": "Latest Single",
-  "cover": "images/covers/the-long-weekend-a-little-more-of-you-cover.png",
-  "image": "images/covers/the-long-weekend-a-little-more-of-you-cover.png",
-  "audio": "https://www.dropbox.com/scl/fi/lfiqobshy4jpy4kdp2kbl/the-long-weekend-anywhere-but-here-MP3-mastered.mp3?rlkey=mfc9rdzd4dsau4gtsj1cofykr&raw=1",
-  "audioSrc": "https://www.dropbox.com/scl/fi/lfiqobshy4jpy4kdp2kbl/the-long-weekend-anywhere-but-here-MP3-mastered.mp3?rlkey=mfc9rdzd4dsau4gtsj1cofykr&raw=1",
+  "cover": "https://raw.githubusercontent.com/SteveP999/the-long-weekend/main/images/covers/the-long-weekend-a-little-more-of-you-cover.png",
+  "image": "https://raw.githubusercontent.com/SteveP999/the-long-weekend/main/images/covers/the-long-weekend-a-little-more-of-you-cover.png",
+  "audio": "https://www.dropbox.com/scl/fi/n7an5dab3r1r7yg707td0/long-weekend-a-little-more-of-you-MP3.mp3?rlkey=lpxntbk52sbbxj7l2iuq8sw56&raw=1",
+  "audioSrc": "https://www.dropbox.com/scl/fi/n7an5dab3r1r7yg707td0/long-weekend-a-little-more-of-you-MP3.mp3?rlkey=lpxntbk52sbbxj7l2iuq8sw56&raw=1",
   "videos": []
 }
