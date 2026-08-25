@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "the-long-weekend-a-little-more-of-you",
+    "num": "01",
+    "title": "A Little More Of You",
+    "artist": "The Long Weekend",
+    "album": "No Particular Hurry",
+    "trackNumber": 1,
+    "albumOrder": 1,
+    "albumCover": "images/covers/the-long-weekend-no-particular-hurry-ALBUM-cover.png",
+    "type": "single",
+    "isLatest": true,
+    "cover": "images/covers/the-long-weekend-a-little-more-of-you-cover.png",
+    "audio": "https://www.dropbox.com/scl/fi/iut2riuvtpud80lm47cza/long-weekend-a-little-more-of-you-COVER.png?rlkey=jvclvl95ieoqlu13g64yrttkg&raw=1",
+    "audioSrc": "https://www.dropbox.com/scl/fi/iut2riuvtpud80lm47cza/long-weekend-a-little-more-of-you-COVER.png?rlkey=jvclvl95ieoqlu13g64yrttkg&raw=1",
+    "videos": [],
+    "includeOnRadio": true,
+    "includeOnHomepage": true,
+    "explicit": false,
+    "tags": [],
+    "streaming": {}
+  }
+]
