@@ -2,11 +2,11 @@
   "artist": "The Long Weekend",
   "latestUrl": "latest.json",
   "featuredTrack": {
-    "title": "A Little More of You",
+    "title": "Different When You're Gone",
     "artist": "The Long Weekend",
     "album": "No Particular Hurry",
-    "cover": "https://raw.githubusercontent.com/SteveP999/the-long-weekend/main/images/covers/the-long-weekend-a-little-more-of-you-cover.png",
-    "audioSrc": "https://www.dropbox.com/scl/fi/n7an5dab3r1r7yg707td0/long-weekend-a-little-more-of-you-MP3.mp3?rlkey=lpxntbk52sbbxj7l2iuq8sw56&raw=1",
+    "cover": "images/covers/the-long-weekend-different-when-youre-gone-cover.png",
+    "audioSrc": "https://www.dropbox.com/scl/fi/k3g4i7negg558voaedmcc/long-weekend-different-when-youre-gone-MP3.mp3?rlkey=vjnuvt3u0ce2d9ygzz07ouzgz&raw=1",
     "videos": []
   },
   "tracks": [
@@ -14,7 +14,7 @@
       "title": "A Little More of You",
       "artist": "The Long Weekend",
       "album": "No Particular Hurry",
-      "cover": "https://raw.githubusercontent.com/SteveP999/the-long-weekend/main/images/covers/the-long-weekend-a-little-more-of-you-cover.png",
+      "cover": "images/covers/the-long-weekend-a-little-more-of-you-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/n7an5dab3r1r7yg707td0/long-weekend-a-little-more-of-you-MP3.mp3?rlkey=lpxntbk52sbbxj7l2iuq8sw56&raw=1",
       "videos": []
     },
@@ -22,8 +22,16 @@
       "title": "Anywhere But Here",
       "artist": "The Long Weekend",
       "album": "No Particular Hurry",
-      "cover": "https://raw.githubusercontent.com/SteveP999/the-long-weekend/main/images/covers/the-long-weekend-anywhere-but-here-ALBUM-cover.png",
+      "cover": "images/covers/the-long-weekend-anywhere-but-here-ALBUM-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/lfiqobshy4jpy4kdp2kbl/the-long-weekend-anywhere-but-here-MP3-mastered.mp3?rlkey=mfc9rdzd4dsau4gtsj1cofykr&raw=1",
+      "videos": []
+    },
+    {
+      "title": "Different When You're Gone",
+      "artist": "The Long Weekend",
+      "album": "No Particular Hurry",
+      "cover": "images/covers/the-long-weekend-different-when-youre-gone-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/k3g4i7negg558voaedmcc/long-weekend-different-when-youre-gone-MP3.mp3?rlkey=vjnuvt3u0ce2d9ygzz07ouzgz&raw=1",
       "videos": []
     }
   ]
